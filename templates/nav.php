@@ -11,7 +11,7 @@
 <li class="nav-item"> <a class="nav-link" href="index.php"> Home </a></li>
 <li class="nav-item"> <a class="nav-link" href="ballroom.php"> Ballroom</a></li>
 <li class="nav-item dropdown">
-    <a class="nav-link dropdown-toggle" href="wellness.php" data-toggle="dropdown">Wellness</a>
+    <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">Wellness</a>
     <ul class="dropdown-menu">
 	  <li><a class="dropdown-item" href="reiki.php">Reiki</a></li>
 	  <li><a class="dropdown-item" href="nlp-coaching.php">NLP Coaching</a>

@@ -7,19 +7,21 @@
           </div>
         </div>
         <div class="row">
+
+
 	        <div class="col-md-4 ftco-animate">
 	          <div class="block-7">
 	            <div class="text-center">
-	            <h2 class="heading">Year Card</h2>
-	            <span class="price"><sup>$</sup> <span class="number">449</span></span>
-	            <span class="excerpt d-block">For 1 Year</span>
+	            <h2 class="heading">NLP Coaching Group Sessons</h2>
+	            <span class="price"><sup>£</sup> <span class="number">180</span></span>
+	            <span class="excerpt d-block">60 to 90 minutes</span>
 	            
-	            <h3 class="heading-2 my-4">Enjoy All The Features</h3>
+	            <h3 class="heading-2 my-4">Benefits</h3>
 	            
 	            <ul class="pricing-text mb-5">
-	              <li>Onetime Access To All Club</li>
-	              <li>Group Trainer</li>
-	              <li>Book A Group Class</li>
+	              <li>Bridging the gap between where you’re now and where you would like to be.</li>
+	              <li>Overcome obstacles, low confidence and insecurities.</li>
+	              <li>Strategies and techniques which facilitates you to succeed in your goal faster.</li>
 	              <li>Fitness Orientation</li>
 	            </ul>
 
@@ -27,46 +29,55 @@
 	            </div>
 	          </div>
 	        </div>
+
+
+
+
 	        <div class="col-md-4 ftco-animate">
 	          <div class="block-7">
 	            <div class="text-center">
-	            <h2 class="heading">Monthly Card</h2>
-	            <span class="price"><sup>$</sup> <span class="number">200</span></span>
-	            <span class="excerpt d-block">For 1 Month</span>
+	            <h2 class="heading">Reiki Group Sessions</h2>
+	            <span class="price"><sup>£</sup> <span class="number">30</span></span>
+	            <span class="excerpt d-block">60 to 90 minutes</span>
 	            
-	            <h3 class="heading-2 my-4">Enjoy All The Features</h3>
+	            <h3 class="heading-2 my-4">Benefits</h3>
 	            
 	            <ul class="pricing-text mb-5">
-	              <li>Group Classes</li>
-	              <li>Discuss Fitness Goals</li>
-	              <li>Group Trainer</li>
-	              <li>Fitness Orientation</li>
+	              <li>Promotes Harmony &amp; Balance of your inner energy systems.</li>
+	              <li>Facilitates the release of stress and tension through deep relaxation.</li>
+	              <li>Disintegrate energy blocks and encourages a natural balance between mind, body and spirit.</li>
+	              <li>Assists the body in releasing toxins and invigorates the immune system.</li>
 	            </ul>
 
 	            <a href="#" class="btn btn-primary d-block px-2 py-4">Get Started</a>
 	            </div>
 	          </div>
 	        </div>
+
+
+
 	        <div class="col-md-4 ftco-animate">
 	          <div class="block-7">
 	            <div class="text-center">
-	            <h2 class="heading">Weekly Card</h2>
-	            <span class="price"><sup>$</sup> <span class="number">85</span></span>
-	            <span class="excerpt d-block">For 1 Week</span>
+	            <h2 class="heading">Break Through Sessions</h2>
+	            <span class="price"><sup>£</sup> <span class="number">250</span></span>
+	            <span class="excerpt d-block">5 to 8 Hours</span>
 	            
-	            <h3 class="heading-2 my-4">Enjoy All The Features</h3>
+	            <h3 class="heading-2 my-4">Benefits</h3>
 	            
 	            <ul class="pricing-text mb-5">
-	              <li>Group Classes</li>
-	              <li>Discuss Fitness Goals</li>
-	              <li>Group Trainer</li>
-	              <li>Fitness Orientation</li>
+	              <li>Reduces Stress, anxiety, depression.</li>
+	              <li>Improves prospects of career development and progression and/or change of career.</li>
+	              <li>Improves managing Emotional challenges.</li>
+	              <li>Improves self-confidence.</li>
 	            </ul>
 
 	            <a href="#" class="btn btn-primary d-block px-2 py-4">Get Started</a>
 	            </div>
 	          </div>
 	        </div>
+
+
 	      </div>
       </div>
     </section>
