@@ -7615,8 +7615,8 @@ h1, h2, h3, h4, h5,
   .btn:hover, .btn:active, .btn:focus {
     outline: none; }
   .btn.btn-primary {
-    background: #d291bc;
-    border: 1px solid #d291bc !important;
+    background: #000000;
+    border: 1px solid #000000 !important;
     color: #fff; }
     .btn.btn-primary:hover {
       border: 1px solid #d291bc;
@@ -8034,7 +8034,7 @@ textarea.form-control {
   visibility: hidden; }
 
 .bg-primary {
-  background: #d291bc !important; }
+  background: black !important; }
 
 .ftco-section {
   padding: 7em 0;
@@ -8049,7 +8049,7 @@ textarea.form-control {
 .ftco-footer {
   font-size: 16px;
   padding: 4em 0;
-  background: #d291bc; }
+  background: #000000; }
   .ftco-footer h1.logo {
     color: #fff;
     font-size: 30px;
@@ -8804,3 +8804,37 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+@media (min-width: 992px){
+	.dropdown-menu .dropdown-toggle:after{
+		border-top: .3em solid transparent;
+	    border-right: 0;
+	    border-bottom: .3em solid transparent;
+	    border-left: .3em solid;
+	}
+	.dropdown-menu .dropdown-menu{
+		margin-left:0; margin-right: 0;
+	}
+	.dropdown-menu li{
+		position: relative;
+	}
+	.nav-item .submenu{ 
+		display: none;
+		position: absolute;
+		left:100%; top:-7px;
+	}
+	.nav-item .submenu-left{ 
+		right:100%; left:auto;
+	}
+	.dropdown-menu > li:hover{ background-color: #f1f1f1 }
+	.dropdown-menu > li:hover > .submenu{
+		display: block;
+	}
+}
+
+.header {
+  padding: 150px;
+  text-align: center;
+  background: #000000;
+  color: white;
+}
