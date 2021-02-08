@@ -7,7 +7,7 @@
 		          <div class="col-md-6 col-lg-3 d-flex justify-content-center counter-wrap ftco-animate">
 		            <div class="block-18 text-center">
 		              <div class="text">
-		              	<strong class="number" data-number="5000">0</strong>
+		              	<strong class="number" data-number="5300">0</strong>
 		              	<span>Happy Customers</span>
 		              </div>
 		            </div>
@@ -16,23 +16,15 @@
 		            <div class="block-18 text-center">
 		              <div class="text">
 		              	<strong class="number" data-number="4560">0</strong>
-		              	<span>Yoga Workshops</span>
+		              	<span>Training / Coaching</span>
 		              </div>
 		            </div>
 		          </div>
 		          <div class="col-md-6 col-lg-3 d-flex justify-content-center counter-wrap ftco-animate">
 		            <div class="block-18 text-center">
 		              <div class="text">
-		              	<strong class="number" data-number="570">0</strong>
-		              	<span>Years of Experience</span>
-		              </div>
-		            </div>
-		          </div>
-		          <div class="col-md-6 col-lg-3 d-flex justify-content-center counter-wrap ftco-animate">
-		            <div class="block-18 text-center">
-		              <div class="text">
-		              	<strong class="number" data-number="900">0</strong>
-		              	<span>Lesson Conducted</span>
+		              	<strong class="number" data-number="15">0</strong>
+		              	<span>Years of experience</span>
 		              </div>
 		            </div>
 		          </div>

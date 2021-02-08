@@ -10,31 +10,42 @@
 <?php include "sections/header-section.php"; ?>
 <!--END Header Sections-->
 
-<section class="ftco-section ftco-intro" style="background-image: url(images/intro.jpg);">
+<!-- style="background-image: url(images/intro.jpg);" -->
+<section class="ftco-section ftco-intro">
    <div class="container">
-      <div class="row justify-content-end">
+      <div class="row">
+
          <div class="col-md-6">
-            <div class="heading-section ftco-animate">
+         <p><img src="images/ballroom.jpeg" alt="alternatetext" style="width:500px; margin-top: 60px;"></p>
+         </div>
+ 
+         <div class="col-md-6">
+         <div class="heading-section ftco-animate">
                <h2 class="mb-4">Ballroom Dancing</h2>
                <h3 class="subheading">What we do</h3>
             </div>
             <p class="ftco-animate">
                At Ely Wellbeing, we teach people, even those with &quot;two left feet&quot; to dance to music and on time. Whether you have never danced before, an improver or an experienced dancer, you will find dance tuition suitable for your needs. We have dance classes from your first fun steps on the dancefloor to intensive training in various styles like Ballroom, Latin-American, Salsa etc.
             </p>
-         </div>
-      </div>
-   </div>
-   <div class="container">
-      <div class="row justify-content-end">
-         <div class="col-md-6">
-            <div class="heading-section ftco-animate">
-			<a href="our-teachers.php" class="btn btn-primary">Our Teachers</a>
-			<a href="classes.php" class="btn btn-primary">Classes</a>
+         <div class="heading-section ftco-animate">
+            <p>
+               <a href="our-teachers.php" class="btn btn-primary p-3 px-4">Our Teachers</a>
+               <a href="classes.php" class="btn btn-primary p-3 px-4">Classes</a>
+               <a href="shop.php" class="btn btn-primary p-3 px-4">Shop Now</a>
+            </p>
             </div>
          </div>
       </div>
    </div>
 </section>
+
+<!--Counter Section-->
+<?php include "sections/counter-section.php"; ?>
+<!--END Counter Section-->
+
+<!--Blog Section-->
+<?php include "sections/blog-section.php"; ?>
+<!--END Blog Section-->
 
 <!--Footer Section-->
 <?php include 'templates/footer.php'; ?>

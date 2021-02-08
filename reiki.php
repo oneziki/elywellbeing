@@ -10,23 +10,41 @@
 <?php include "sections/header-section.php"; ?>
 <!--END Header Sections-->
 
-<section class="ftco-section ftco-intro" style="background-image: url(images/intro.jpg);">
+<section class="ftco-section ftco-intro">
    <div class="container">
-      <div class="row justify-content-end">
+      <div class="row">
+
          <div class="col-md-6">
-            <div class="heading-section ftco-animate">
+         <p><img src="images/reiki.jpg" alt="alternatetext" style="width:500px;"></p>
+         </div>
+
+         <div class="col-md-6">
+         <div class="heading-section ftco-animate">
                <h2 class="mb-4">Reiki</h2>
                <h3 class="subheading">What we do</h3>
             </div>
             <p class="ftco-animate">
             Reiki is a Japanese healing artwork that was developed by Mikao Usui in Japan. Reiki, pronounced ‘ray-key’, may be considered as a system of vitality healing. Reiki itself translates to ‘common life power’ and is based on the thought that life energy flows via all living things.
-</p>
-
+            </p>
             <p class="ftco-animate">
-            A Reiki practitioner uses touch or near contact – placing their palms near the body – to encourage the flow of this energy. They gently place their palms, non-intrusively, on or near the body. There’s no massage or manipulation in Reiki since they treat the whole individual quite than specialising in specific signs. The Reiki practitioner will typically change the position of their hands several times throughout remedy, that sufferers keep absolutely clothed.
-</p>
+            A Reiki practitioner uses touch or near contact – placing their palms near the body – to encourage the flow of this energy. <br><br> They gently place their palms, non-intrusively, on or near the body. <br>There’s no massage or manipulation in Reiki since they treat the whole individual quite than specialising in specific signs.<br><br> The Reiki practitioner will typically change the position of their hands several times throughout remedy, that sufferers keep absolutely clothed.
+            </p>
+            <p>
+               <a href="our-teachers.php" class="btn btn-primary p-3 px-4">Learn More</a>
+            </p>
+      </div>
+   <div>
+</section>
 
-<div class="heading-section ftco-animate">
+<!--Counter Section-->
+<?php include "sections/counter-section.php"; ?>
+<!--END Counter Section-->
+
+<section class="ftco-section ftco-intro">
+   <div class="container">
+      <div class="row">
+         <div class="col-md-6">
+            <div class="heading-section ftco-animate">
                <h2 class="mb-4">Benefits</h2>
                <ul>
                    <li>Promotes Harmony &amp; Balance of your inner energy systems</li>
@@ -40,17 +58,15 @@
                    <li>Helps spiritual growth and emotional cleansing,</li>
                    <li>Compliments medical treatment &amp; other therapies,</li>
                </ul>
+               <p>
+                  <a href="our-teachers.php" class="btn btn-primary p-3 px-4">Learn More</a>
+               </p>
             </div>
          </div>
-      </div>
-   </div>
-   <div class="container">
-      <div class="row justify-content-end">
-         <div class="col-md-6">
-            <div class="heading-section ftco-animate">
-		<a href="our-teachers.php" class="btn btn-primary">Read More</a>
-            </div>
-         </div>
+      <div class="col-md-6">
+         <p>
+            <img src="images/reiki-2.jpeg" alt="alternatetext" style="width:500px; margin-top: 60px;">
+         </p>
       </div>
    </div>
 </section>

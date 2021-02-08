@@ -10,11 +10,16 @@
 <?php include "sections/header-section.php"; ?>
 <!--END Header Sections-->
 
-<section class="ftco-section ftco-intro" style="background-image: url(images/intro.jpg);">
+<section class="ftco-section ftco-intro">
    <div class="container">
-      <div class="row justify-content-end">
+      <div class="row">
+
          <div class="col-md-6">
-            <div class="heading-section ftco-animate">
+         <p><img src="images/nlp-coaching.jpeg" alt="alternatetext" style="width:400px;"></p>
+         </div>
+
+         <div class="col-md-6">
+         <div class="heading-section ftco-animate">
                <h2 class="mb-4">NLP Coaching</h2>
                <h3 class="subheading">What we do</h3>
             </div>
@@ -31,6 +36,18 @@
                use this system to realise that the one factor holding you back in life, is yourself.
                clothed.
             </p>
+      </div>
+   <ldiv>
+</section>
+
+<!--Counter Section-->
+<?php include "sections/counter-section.php"; ?>
+<!--END Counter Section-->
+
+<section class="ftco-section ftco-intro">
+   <div class="container">
+      <div class="row">
+         <div class="col-md-6">
             <div class="heading-section ftco-animate">
                <h2 class="mb-4">Benefits</h2>
                <ul>
@@ -41,17 +58,15 @@
                   <li>Explore and evaluate all possible options available.</li>
                   <li>Dedicated time, support, encouragement and motivation.</li>
                </ul>
+               <p>
+                  <a href="our-teachers.php" class="btn btn-primary p-3 px-4">Learn More</a>
+               </p>
             </div>
          </div>
-      </div>
-   </div>
-   <div class="container">
-      <div class="row justify-content-end">
-         <div class="col-md-6">
-            <div class="heading-section ftco-animate">
-               <a href="our-teachers.php" class="btn btn-primary">Read More</a>
-            </div>
-         </div>
+      <div class="col-md-6">
+         <p>
+            <img src="images/nlp-coaching-2.jpg" alt="alternatetext" style="width:400px; margin-top: 60px;">
+         </p>
       </div>
    </div>
 </section>

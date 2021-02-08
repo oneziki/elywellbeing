@@ -34,6 +34,14 @@
 <?php include "sections/testimony-section.php"; ?>
 <!--END Testimony Section-->
 
+<!--FAQs Page-->
+<?php include "sections/faqs.php"; ?>
+<!--END FAQs Contact Page-->
+
+<!--Contact Page-->
+<?php include "sections/contact.php"; ?>
+<!--END Contact Page-->
+
 <!--Counter Section-->
 <?php include "sections/counter-section.php"; ?>
 <!--END Counter Section-->

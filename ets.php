@@ -6,6 +6,10 @@
 <?php include "templates/nav.php"; ?>
 <!--END Nav Sections-->
 
+<!--Header Sections-->
+<?php include "sections/header-section.php"; ?>
+<!--END Header Sections-->
+
 <section style="padding-bottom: 25px; padding-top: 100px;">
    <div class="container">
       <div class="row justify-content-center">
@@ -44,6 +48,14 @@
       </div>
    </div>
 </section>
+
+<!--Blog Section-->
+<?php include "sections/blog-section.php"; ?>
+<!--END Blog Section-->
+
+<!--Gallery Section-->
+<?php include "sections/gallery-section.php"; ?>
+<!--END Gallery Section-->
 
 <!--Footer Section-->
 <?php include "templates/footer.php"; ?>
