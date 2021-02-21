@@ -43,29 +43,27 @@ tr:nth-child(even) {
          </tr>
       </table>
       <br>
-      <h3>Ballroom Dance Video Lessons</h3>
+      <h5><u>Ballroom Dance Video Lessons</u></h5>
       <ul>
          <li>Pre-Bronze / E-Class (Waltz, Tango, Foxtrot and Quickstep) - £17</li>
          <li>Bronze / D-Class (Waltz, Tango, Foxtrot, Viennese Waltz and Quickstep) - £27</li>
          <li>Silver / C-Class (Waltz, Tango, Foxtrot, Viennese Waltz and Quickstep) - £37</li>
          <li>Gold / B-Class (Waltz, Tango, Foxtrot, Viennese Waltz and Quickstep) - £47</li>
       </ul>
-      <p>Full Ballroom Dance Video Package - £128 £47 (63% discount)<br>
-      Latin American Dance Video Lessons</p>
+      <br>
+      <h5>Full Ballroom Dance Video Package - <s>£128</s> £47 (63% discount)<br><br>
+      <u>Latin American Dance Video Lessons</u></h5>
       <ul>
          <li>Pre-Bronze / E-Class (Cha-Cha-Cha, Rumba, Samba, Paso Doble and Jive) - £23</li>
          <li>Bronze / D-Class (Cha-Cha-Cha, Rumba, Samba, Paso Doble and Jive) - £33</li>
          <li>Silver / C-Class (Cha-Cha-Cha, Rumba, Samba, Paso Doble and Jive) - £43</li>
          <li>Gold / B-Class (Cha-Cha-Cha, Rumba, Samba, Paso Doble and Jive) - £57</li>
       </ul>
-      <p>Full Latin American Dance Video Package - £156 £67 (57% discount)<br>
-        Ballroom / Latin Combo Video Package £284 £97 (66% discount)</p>
+      <h5>Full Latin American Dance Video Package - <s>£156</s> £67 (57% discount)
+        <br><br>
+        <b style="color: red">Special Offer</b> <u>Ballroom & Latin Combo Video Package <s>£284</s> £97 (66% discount)</u></h5>
 
       <br>
-
-<!--FAQs Page-->
-<?php include "sections/faqs.php"; ?>
-<!--END FAQs Contact Page-->
 
    </div>
 </section>

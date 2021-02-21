@@ -1,23 +1,21 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary sticky-top">
-<div class="container">
-	      <a class="navbar-brand" href="index.html"><span class="flaticon-lotus"></span>Elywellbeing</a>
-	      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
-	        <span class="oi oi-menu"></span> Menu
-	      </button>
-	      <div class="collapse navbar-collapse" id="ftco-nav">
-<div class="collapse navbar-collapse" id="main_nav">
+<a class="navbar-brand" href="index.php"><span class="flaticon-lotus"></span>Elywellbeing</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
 
-<ul class="navbar-nav" style="padding-left: 15%;">
-<li class="nav-item"> <a class="nav-link" href="index.php"> Home </a></li>
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+<ul class="navbar-nav mr-auto">
+<li class="nav-item active"> <a class="nav-link" href="index.php"> Home </a></li>
 <li class="nav-item"> <a class="nav-link" href="ballroom.php"> Ballroom</a></li>
 <li class="nav-item dropdown">
     <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">Wellness</a>
     <ul class="dropdown-menu">
 	  <li><a class="dropdown-item" href="reiki.php">Reiki</a></li>
-	  <li><a class="dropdown-item" href="nlp-coaching.php">NLP Coaching</a>
+	  <li><a class="dropdown-item" href="nlp-coaching.php">NLP Coaching</a></li>
+	  <li><a class="dropdown-item" href="breakthrough.php">Breakthrough Sessions</a></li>
     </ul>
 </li>
-
 <li class="nav-item dropdown">
     <a class="nav-link dropdown-toggle" href="training.php" data-toggle="dropdown">Training</a>
     <ul class="dropdown-menu">
@@ -43,9 +41,6 @@
 <li class="nav-item"> <a class="nav-link" href="contact-us.php"> Contact Us </a></li>
 
 </ul>
-</div> <!-- navbar-collapse.// -->
 </nav>
-
-
 
 

@@ -3,7 +3,7 @@
         <div class="row justify-content-center mb-5 pb-3">
           <div class="col-md-7 heading-section ftco-animate text-center">
             <h3 class="subheading">Pricing Tables</h3>
-            <h2 class="mb-1">Membership Cards</h2>
+            <h2 class="mb-1">Service Offerings</h2>
           </div>
         </div>
         <div class="row">
@@ -14,7 +14,7 @@
 	            <div class="text-center">
 	            <h2 class="heading">NLP Coaching Group Sessons</h2>
 	            <span class="price"><sup>£</sup> <span class="number">180</span></span>
-	            <span class="excerpt d-block">60 to 90 minutes</span>
+	            <span class="excerpt d-block">6 x 60 minutes</span>
 	            
 	            <h3 class="heading-2 my-4">Benefits</h3>
 	            
@@ -37,8 +37,8 @@
 	          <div class="block-7">
 	            <div class="text-center">
 	            <h2 class="heading">Reiki Group Sessions</h2>
-	            <span class="price"><sup>£</sup> <span class="number">30</span></span>
-	            <span class="excerpt d-block">60 to 90 minutes</span>
+	            <span class="price"><sup>£</sup> <span class="number">15</span></span>
+	            <span class="excerpt d-block">60 minutes</span>
 	            
 	            <h3 class="heading-2 my-4">Benefits</h3>
 	            

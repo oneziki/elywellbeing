@@ -34,7 +34,6 @@
                psychological challenges we create subconsciously for ourselves. When ‘following your
                goals’ and reaching your full potential can seem unimaginable, a professional practitioner can
                use this system to realise that the one factor holding you back in life, is yourself.
-               clothed.
             </p>
       </div>
    <ldiv>

@@ -38,6 +38,10 @@ SPEAK IT TO ACHIEVE IT and EXPECT TO SUCCEED
    <div>
 </section>
 
+<!--Counter Section-->
+<?php include "sections/counter-section.php"; ?>
+<!--END Counter Section-->
+
 <section class="ftco-section ftco-intro">
    <div class="container">
       <div class="row">
@@ -64,10 +68,6 @@ SPEAK IT TO ACHIEVE IT and EXPECT TO SUCCEED
       </div>
    </div>
 </section>
-
-<!--Counter Section-->
-<?php include "sections/counter-section.php"; ?>
-<!--END Counter Section-->
 
 <!--Footer Section-->
 <?php include 'templates/footer.php'; ?>

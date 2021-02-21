@@ -3,7 +3,9 @@
       <div class="row justify-content-end">
          <div class="col-md-12">
             <div class="panel-group" id="accordion">
-               <div class="panel panel-default">
+               <div class="panel panel-default"> 
+
+               <h2>Frequently Asked Questions</h2> <br>
                   <div class="panel-heading">
                      <h5 class="panel-title">
                         <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">
@@ -216,3 +218,5 @@
       </div>
    </div>
 </section>
+
+<br><br>

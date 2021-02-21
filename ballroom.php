@@ -31,6 +31,7 @@
             <p>
                <a href="our-teachers.php" class="btn btn-primary p-3 px-4">Our Teachers</a>
                <a href="classes.php" class="btn btn-primary p-3 px-4">Classes</a>
+               <a href="faqs-2.php" class="btn btn-primary p-3 px-4">FQAs</a>
                <a href="shop.php" class="btn btn-primary p-3 px-4">Shop Now</a>
             </p>
             </div>

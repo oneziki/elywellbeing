@@ -10,10 +10,6 @@
 <?php include "sections/header-section.php"; ?>
 <!--END Header Sections-->
 
-<!--Header Sections-->
-<?php include "sections/header-section.php"; ?>
-<!--END Header Sections-->
-
 <section class="ftco-section ftco-intro" style="background-image: url(images/intro.jpg);">
    <div class="container">
       <div class="row justify-content-end">
@@ -37,6 +33,10 @@
       </div>
    </div>
 </section>
+
+<!--Counter Section-->
+<?php include "sections/counter-section.php"; ?>
+<!--END Counter Section-->
 
 <!--Footer Section-->
 <?php include 'templates/footer.php'; ?>

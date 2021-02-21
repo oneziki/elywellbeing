@@ -14,7 +14,7 @@
    <div class="container">
       <div class="row justify-content-center">
       <div class="col-md-12 heading-section ftco-animate text-center fadeInUp ftco-animated">
-            <h3 class="subheading">Yoga Classes</h3>
+            <h3 class="subheading">“Choose Your Level and Focus”</h3>
             <h2 class="mb-1">Our Professional Teachers</h2>
           </div>
       </div>
@@ -39,7 +39,7 @@
             <p class="ftco-animate">
                All our Courses and Classes are run by current or former dancers, performers or competitors. We pride ourselves on expertise and knowledge of our staff.
             </p>
-                  <a href="#" class="btn btn-primary">Shop Now</a>
+                  <a href="shop-2.php" class="btn btn-primary">Shop Now</a>
                </div>
             </div>
          </div>

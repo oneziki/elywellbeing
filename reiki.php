@@ -7,7 +7,7 @@
 <!--END Nav Sections-->
 
 <!--Header Sections-->
-<?php include "sections/header-section.php"; ?>
+<?php include 'sections/header-section.php'; ?>
 <!--END Header Sections-->
 
 <section class="ftco-section ftco-intro">
@@ -30,14 +30,14 @@
             A Reiki practitioner uses touch or near contact – placing their palms near the body – to encourage the flow of this energy. <br><br> They gently place their palms, non-intrusively, on or near the body. <br>There’s no massage or manipulation in Reiki since they treat the whole individual quite than specialising in specific signs.<br><br> The Reiki practitioner will typically change the position of their hands several times throughout remedy, that sufferers keep absolutely clothed.
             </p>
             <p>
-               <a href="our-teachers.php" class="btn btn-primary p-3 px-4">Learn More</a>
+               <a href="reiki-more.php" class="btn btn-primary p-3 px-4">Learn More</a>  <a href="shop-2.php" class="btn btn-primary p-3 px-4">Private Session</a> <a href="shop-2.php" class="btn btn-primary p-3 px-4">Group Session</a>
             </p>
       </div>
    <div>
 </section>
 
 <!--Counter Section-->
-<?php include "sections/counter-section.php"; ?>
+<?php include 'sections/counter-section.php'; ?>
 <!--END Counter Section-->
 
 <section class="ftco-section ftco-intro">
@@ -59,7 +59,7 @@
                    <li>Compliments medical treatment &amp; other therapies,</li>
                </ul>
                <p>
-                  <a href="our-teachers.php" class="btn btn-primary p-3 px-4">Learn More</a>
+                  <a href="reiki-more.php" class="btn btn-primary p-3 px-4">Learn More</a> <a href="shop-2.php" class="btn btn-primary p-3 px-4">Private Session</a> <a href="shop-2.php" class="btn btn-primary p-3 px-4">Group Session</a>
                </p>
             </div>
          </div>
