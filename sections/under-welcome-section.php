@@ -62,7 +62,7 @@
 									enabling you to realise significant change in your life.</p>
 							</div>
 							<p>
-                  <a href="seminar.php" class="btn btn-primary p-3 px-4">Read More</a>
+                  <a href="breakthrough.php" class="btn btn-primary p-3 px-4">Read More</a>
                </p>
 						</div>
 					</div>

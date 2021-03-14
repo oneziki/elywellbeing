@@ -30,7 +30,7 @@
 	          	<li class="ftco-animate"><a href="npl-coaching.php"><span class="ion-ios-checkmark-circle mr-3"></span>Group NLP Coaching</a></li>
 	          	<li class="ftco-animate"><a href="sitai.php"><span class="ion-ios-checkmark-circle mr-3"></span>Speak it to archieve it</a></li>
 	          	<li class="ftco-animate"><a href="ets.php"><span class="ion-ios-checkmark-circle mr-3"></span>Expect to succeed</a></li>
-	          	<li class="ftco-animate"><a href="nlp-practitioner.php"><span class="ion-ios-checkmark-circle mr-3"></span>NLP Practisionor</a></li>
+	          	<li class="ftco-animate"><a href="nlp-practitioner.php"><span class="ion-ios-checkmark-circle mr-3"></span>NLP Practitioner</a></li>
 	          </ul>
 					</div>
 				</div>

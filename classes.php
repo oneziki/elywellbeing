@@ -14,7 +14,7 @@
    <div class="container">
       <div class="row justify-content-center">
       <div class="col-md-12 heading-section ftco-animate text-center fadeInUp ftco-animated">
-            <h3 class="subheading">Yoga Classes</h3>
+            <h3 class="subheading">Join Classes</h3>
             <h2 class="mb-1">Choose Your Level &amp; Focus</h2>
           </div>
       </div>
@@ -32,7 +32,7 @@
                      You&#39;ve Planned Every Detail of Your Wedding Don&#39;t Leave Your FIRST DANCE to Chance!
                      We Can Help You Prepare and Have Fun Doing It!
                   </p>
-                  <a href="shop.php" class="btn btn-primary">Shop Now</a>
+                  <a href="http://elywellbeing.co.uk/shop" class="btn btn-primary">Shop Now</a>
                </div>
             </div>
          </div>
@@ -45,7 +45,7 @@
                      of rhythms. Start with Waltz, Tango, Social Foxtrot, Cha-Cha-Cha, Rumba &amp; Jive, followed
                      by Quickstep &amp; Samba for Improvers..
                   </p>
-                  <a href="shop.php" class="btn btn-primary">Shop Now</a>
+                  <a href="http://elywellbeing.co.uk/shop" class="btn btn-primary">Shop Now</a>
                </div>
             </div>
          </div>
@@ -65,7 +65,7 @@
                      attention is solely on you. If you wish to accelerate your dance learning or to catch-up with
                      something you&#39;ve missed, you can have one-on-one tuition at a time which suits you.
                   </p>
-                  <a href="shop.php" class="btn btn-primary">Shop Now</a>
+                  <a href="http://elywellbeing.co.uk/shop" class="btn btn-primary">Shop Now</a>
                </div>
             </div>
          </div>
@@ -76,7 +76,7 @@
                   <p class="card-text">In-depth knowledge, Ballroom &amp; Latin technique, helpful hints, tricks of the trade. Further info
                      &amp; bookings: Facebook or in person with your teacher.
                   </p>
-                  <a href="shop.php" class="btn btn-primary">Shop Now</a>
+                  <a href="http://elywellbeing.co.uk/shop" class="btn btn-primary">Shop Now</a>
                </div>
             </div>
          </div>

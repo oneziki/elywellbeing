@@ -29,7 +29,7 @@
         	</div>
         	<div class="col-md-6 col-lg-4">
         		<div class="package-program ftco-animate">
-        			<a href="#" class="img d-flex justify-content-center align-items-center" style="background-image: url(images/nlp-coaching-2.jpg);">
+        			<a href="nlp-coaching.php" class="img d-flex justify-content-center align-items-center" style="background-image: url(images/nlp-coaching-2.jpg);">
         				<div class="text p-5 text-center">
 	        				<h3>NLP Coaching Group Session</h3>
 	        				<p>Deepen your learning by learning with and from others in our online group coaching sessions</p>

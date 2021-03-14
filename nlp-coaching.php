@@ -7,7 +7,7 @@
 <!--END Nav Sections-->
 
 <!--Header Sections-->
-<?php include "sections/header-section.php"; ?>
+<?php include 'sections/header-section.php'; ?>
 <!--END Header Sections-->
 
 <section class="ftco-section ftco-intro">
@@ -35,12 +35,17 @@
                goals’ and reaching your full potential can seem unimaginable, a professional practitioner can
                use this system to realise that the one factor holding you back in life, is yourself.
             </p>
+            <br>
+            <p>
+               <a href="nlp-coaching-more.php" class="btn btn-primary p-3 px-4">Learn More</a>  <a href="http://elywellbeing.co.uk/shop/product/nlp-coaching-private-session/" class="btn btn-primary p-3 px-4">Private Session</a> <a href="http://elywellbeing.co.uk/shop/product/nlp-coaching-group-session/" class="btn btn-primary p-3 px-4">Group Session</a>
+            </p>
       </div>
+
    <ldiv>
 </section>
 
 <!--Counter Section-->
-<?php include "sections/counter-section.php"; ?>
+<?php include 'sections/counter-section.php'; ?>
 <!--END Counter Section-->
 
 <section class="ftco-section ftco-intro">
@@ -58,8 +63,8 @@
                   <li>Dedicated time, support, encouragement and motivation.</li>
                </ul>
                <p>
-                  <a href="our-teachers.php" class="btn btn-primary p-3 px-4">Learn More</a>
-               </p>
+               <a href="nlp-coaching-more.php" class="btn btn-primary p-3 px-4">Learn More</a>
+            </p>
             </div>
          </div>
       <div class="col-md-6">

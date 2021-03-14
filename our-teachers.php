@@ -1,13 +1,13 @@
 <!--Head Sections-->
-<?php include "templates/head.php"; ?>
+<?php include 'templates/head.php'; ?>
 <!--END Head Sections-->
 
 <!--Nav Sections-->
-<?php include "templates/nav.php"; ?>
+<?php include 'templates/nav.php'; ?>
 <!--END Nav Sections-->
 
 <!--Header Sections-->
-<?php include "sections/header-section.php"; ?>
+<?php include 'sections/header-section.php'; ?>
 <!--END Header Sections-->
 
 <section style="padding-bottom: 25px; padding-top: 100px;">
@@ -39,7 +39,7 @@
             <p class="ftco-animate">
                All our Courses and Classes are run by current or former dancers, performers or competitors. We pride ourselves on expertise and knowledge of our staff.
             </p>
-                  <a href="shop-2.php" class="btn btn-primary">Shop Now</a>
+                  <a href="http://elywellbeing.co.uk/shop/welcome" class="btn btn-primary">Shop Now</a>
                </div>
             </div>
          </div>
@@ -48,5 +48,5 @@
 </section>
 
 <!--Footer Section-->
-<?php include "templates/footer.php"; ?>
+<?php include 'templates/footer.php'; ?>
 <!--END Footer Section-->

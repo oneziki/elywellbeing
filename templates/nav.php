@@ -39,6 +39,7 @@
 <li class="nav-item"> <a class="nav-link" href="about-us.php"> About Us </a> </li>
 <li class="nav-item"> <a class="nav-link" href="blogs.php"> Blogs </a> </li>
 <li class="nav-item"> <a class="nav-link" href="contact-us.php"> Contact Us </a></li>
+<li class="nav-item"> <a class="nav-link" href="http://elywellbeing.co.uk/shop/welcome"> Shop </a></li>
 
 </ul>
 </nav>

@@ -25,7 +25,7 @@
 	              <li>Fitness Orientation</li>
 	            </ul>
 
-	            <a href="#" class="btn btn-primary d-block px-2 py-4">Get Started</a>
+	            <a href="http://elywellbeing.co.uk/shop/product/nlp-coaching-group-session/" class="btn btn-primary d-block px-2 py-4">Buy Now</a>
 	            </div>
 	          </div>
 	        </div>
@@ -49,7 +49,7 @@
 	              <li>Assists the body in releasing toxins and invigorates the immune system.</li>
 	            </ul>
 
-	            <a href="#" class="btn btn-primary d-block px-2 py-4">Get Started</a>
+	            <a href="http://elywellbeing.co.uk/shop/product/reiki-healing-group-session/" class="btn btn-primary d-block px-2 py-4">Buy Now</a>
 	            </div>
 	          </div>
 	        </div>
@@ -72,7 +72,7 @@
 	              <li>Improves self-confidence.</li>
 	            </ul>
 
-	            <a href="#" class="btn btn-primary d-block px-2 py-4">Get Started</a>
+	            <a href="http://elywellbeing.co.uk/shop/product/breakthrough-session/" class="btn btn-primary d-block px-2 py-4">Buy Now</a>
 	            </div>
 	          </div>
 	        </div>

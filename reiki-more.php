@@ -13,57 +13,57 @@
 Reiki consists of two Japanese words – Rei, which means "God's Wisdom or the Higher Power" and Ki (Chi) which is energy or "life force energy". So Reiki is in essence "spiritually guided creation power."
 </p>
 
-<br><br>
+<br>
 <p>
 A treatment feels like a beautiful warm glow of energy that moves around and through you. Reiki treats the person holistically including body, emotions, mind, and higher self, stimulating relaxation and feelings of peace, security and wellbeing. 
 </p>
 
-<br><br>
+<br>
 <p>
 Reiki is a gentle, essential and safe method of energy healing and self-development that anyone can employ. It's been effective in helping almost every known illness and ailment and always creates a beneficial result. It complements other medical or therapeutic techniques to relieve side effects and promote recovery.
 </p>
 
-<br><br>
+<br>
 <p>
 A straightforward technique to learn, Reiki's ability is not taught in the usual sense but is conveyed to the learner during a Reiki lecture. This process is called an "attunement" given by a Reiki master. It allows the student to tap into an unlimited supply of "life force energy" to improve one's health and enhance life quality.
 </p>
 
-<br><br>
+<br>
 <p>
 It does not matter what your intellectual capacity or spiritual development is and, therefore, is out there to everyone. It's been successfully taught to thousands of individuals of all ages and backgrounds.
 </p>
 
-<br><br>
+<br>
 <p>
 While Reiki is spiritual in nature, it's not a faith. It's no dogma, and there's nothing you need to believe when learning and using Reiki. In fact, Reiki is not locked into belief in the least and can work whether you believe in it or not. Because Reiki comes from God, many of us find that using Reiki puts them more in-tune with their religion's experience than only an intellectual concept.
 </p>
 
-<br><br>
+<br>
 <p>
 While Reiki isn't a faith, it's still important to live and act to develop harmony with others. Mikao Usui's Reiki system of natural healing recommended that one practice certain simple ethical ideals to market peace and harmony, nearly universal across all cultures.
 </p>
 
-<br><br>
+<br>
 <h3>
 How it works:
 </h3>
 
-<br><br>
+<br>
 <p>
 <b>Reiki Healing</b> may be a therapy often described as palm healing or hands-on-body healing. A practitioner gently hovers their hands over or places it on a patient's body to facilitate the patient's healing process.
 </p>
 
-<br><br>
+<br>
 <p><b>
 Distant Healing </b>– is like healing energy "sent" across time and space and features a healing effect on the recipient. With this sort of service, you do not need to be physically present with the healer to receive the healing. A practitioner can send healing over the phone or at a special time put aside or prescribed between you and therefore the practitioner.
 </p>
 
-<br><br>
+<br>
 <h3>
 Benefits:
 </h3>
 
-<br><br>
+<br>
 <ol>
 <li>
 Reiki healing reduces stress and tension, relaxes muscles and smooths out mental/emotional pressure. This is often the immediate effect of a Reiki healing session. </li>

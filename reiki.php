@@ -30,7 +30,7 @@
             A Reiki practitioner uses touch or near contact – placing their palms near the body – to encourage the flow of this energy. <br><br> They gently place their palms, non-intrusively, on or near the body. <br>There’s no massage or manipulation in Reiki since they treat the whole individual quite than specialising in specific signs.<br><br> The Reiki practitioner will typically change the position of their hands several times throughout remedy, that sufferers keep absolutely clothed.
             </p>
             <p>
-               <a href="reiki-more.php" class="btn btn-primary p-3 px-4">Learn More</a>  <a href="shop-2.php" class="btn btn-primary p-3 px-4">Private Session</a> <a href="shop-2.php" class="btn btn-primary p-3 px-4">Group Session</a>
+               <a href="reiki-more.php" class="btn btn-primary p-3 px-4">Learn More</a>  <a href="http://elywellbeing.co.uk/shop/product/reiki-healing-private-session/" class="btn btn-primary p-3 px-4">Private Session</a> <a href="http://elywellbeing.co.uk/shop/product/reiki-healing-group-session/" class="btn btn-primary p-3 px-4">Group Session</a>
             </p>
       </div>
    <div>
@@ -59,7 +59,7 @@
                    <li>Compliments medical treatment &amp; other therapies,</li>
                </ul>
                <p>
-                  <a href="reiki-more.php" class="btn btn-primary p-3 px-4">Learn More</a> <a href="shop-2.php" class="btn btn-primary p-3 px-4">Private Session</a> <a href="shop-2.php" class="btn btn-primary p-3 px-4">Group Session</a>
+                  <a href="reiki-more.php" class="btn btn-primary p-3 px-4">Learn More</a>
                </p>
             </div>
          </div>
