@@ -111,6 +111,9 @@ worksheets and knowledge to assist to DIY!</p>
         <li>Control and eliminate anger</li>
 </ul>
 </div>
+<p>
+   <a href="http://elywellbeing.co.uk/shop/product/nlp-coaching-private-session/" class="btn btn-primary p-3 px-4">Private Session</a> <a href="http://elywellbeing.co.uk/shop/product/nlp-coaching-group-session/" class="btn btn-primary p-3 px-4">Group Session</a>
+</p>
 </div>
 <br><br><br><br>
 <!--Blog Section-->

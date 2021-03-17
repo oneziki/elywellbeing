@@ -77,9 +77,14 @@ Reiki healing reduces stress and tension, relaxes muscles and smooths out mental
 <li>Reiki brings reinstated peace, harmony, mutual affection, cooperation and accomplishment within a gaggle of individuals, whether it's a family, a team, workforce, professional board, committee, class or association working for a standard cause.</li>
 <li>Reiki re-establishes physical, mental, emotional and professional wellbeing. It brings a wave of positivity which will be distinctly experienced by everyone enjoying the privilege of receiving the life force either directly, or from a distance.</li>
 </ul>
-    </div>
 </div>
+<p>
+  <a href="http://elywellbeing.co.uk/shop/product/reiki-healing-private-session/" class="btn btn-primary p-3 px-4">Private Session</a> <a href="http://elywellbeing.co.uk/shop/product/reiki-healing-group-session/" class="btn btn-primary p-3 px-4">Group Session</a>
+</p>
+</div>
+
 <br><br><br><br>
+
 <!--Blog Section-->
 <?php include "sections/blog-section.php"; ?>
 <!--END Blog Section-->

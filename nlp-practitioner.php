@@ -163,8 +163,9 @@
                            sector is close to exploding.&quot;
                         </p>
                      </div>
-                     <p><a href="#" class="btn btn-primary">Book Now</a></p>
                   </div>
+                  <br><br>
+                  <p><a href="#" class="btn btn-primary">Book Now</a></p>
                </div>
             </div>
          </div>
