@@ -39,7 +39,7 @@
                   <p class="ftco-animate">
                      Evan is funny, eloquent and well-travelled and is sure to have a story that you can relate to.
                   </p>
-                  <a href="http://elywellbeing.co.uk/shop/bookings" class="btn btn-primary">Book Now</a>
+                  <a href="http://elywellbeing.co.uk/shop/product/seminar-speak-it-to-achieve-it/" class="btn btn-primary">Book Now</a>
                </div>
             </div>
          </div>

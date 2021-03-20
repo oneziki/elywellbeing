@@ -165,7 +165,7 @@
                      </div>
                   </div>
                   <br><br>
-                  <p><a href="#" class="btn btn-primary">Book Now</a></p>
+                  <p><a href="http://elywellbeing.co.uk/shop/product/live-training-nlp-practitioner/" class="btn btn-primary">Book Now</a></p>
                </div>
             </div>
          </div>

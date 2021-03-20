@@ -41,7 +41,7 @@
                      opportunity to focus solely on your personal growth and development and a chance to find
                      out how to become a stronger, more resourceful and more powerful person.
                   </p>
-                  <a href="http://elywellbeing.co.uk/shop/bookings" class="btn btn-primary">Book Now</a>
+                  <a href="http://elywellbeing.co.uk/shop/product/seminar-expect-to-achieve/" class="btn btn-primary">Book Now</a>
                </div>
             </div>
          </div>
